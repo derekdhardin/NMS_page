@@ -38,13 +38,17 @@ h1 {
     margin-bottom:50px;
 }
 
-.item-one li img {
-    height:16px;
-    width:auto;
-
-    padding-right:5px;
+.items {
+    display:flex;
 }
 
-.item-one ul {
+.items ul {
     list-style: none;
+}
+
+.items li img {
+    height:24px;
+    width: auto;
+
+    padding-right:5px;
 }
