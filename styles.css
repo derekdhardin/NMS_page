@@ -1,7 +1,31 @@
 * {
     box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
-img {
-    width:250px;
+.main-header{
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+
+    background-color: red;
+    border: 2px solid blue;
+}
+
+.left-side img {
+    width:200px;
+}
+
+.right-side {
+        background-color: aqua;
+}
+
+ul {
+    display:flex;
+    list-style: none;
+}
+
+li {
+    padding: 0 25px;
 }
