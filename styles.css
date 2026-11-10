@@ -37,3 +37,14 @@ li {
 h1 {
     margin-bottom:50px;
 }
+
+.item-one li img {
+    height:16px;
+    width:auto;
+
+    padding-right:5px;
+}
+
+.item-one ul {
+    list-style: none;
+}
