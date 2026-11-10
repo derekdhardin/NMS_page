@@ -4,21 +4,20 @@
     margin: 0;
 }
 
+nav {
+    border-bottom: 2px solid #e4e4a1;
+}
+
 .main-header{
     display: flex;
     justify-content: space-between;
     padding:10px;
 
-    background-color: red;
-    border: 2px solid blue;
+    background-color: beige;
 }
 
 .left-side img {
     width:200px;
-}
-
-.right-side {
-        background-color: aqua;
 }
 
 ul {
