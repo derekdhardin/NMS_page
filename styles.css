@@ -53,10 +53,16 @@ h1 {
     padding-right:5px;
 }
 
-.item-one, .item-two, .item-three, .item-four {
+.item-one, .item-two, .item-three, .item-four, .item-five {
     display:flex;
     flex-direction:column;
     align-items: center;
     justify-content: space-around;
+
+    height: 300px;
 }
 
+.items img {
+    height:200px;
+    width:200px;
+}
