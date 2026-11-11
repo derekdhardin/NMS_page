@@ -53,9 +53,10 @@ h1 {
     padding-right:5px;
 }
 
-.item-one, .item-two, .item-three {
+.item-one, .item-two, .item-three, .item-four {
     display:flex;
     flex-direction:column;
     align-items: center;
     justify-content: space-around;
 }
+
