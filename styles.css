@@ -18,6 +18,8 @@ nav {
 }
 
 .content {
+    display:flex;
+    justify-content: space-evenly;
     padding:40px;
 }
 
@@ -36,6 +38,7 @@ li {
 
 h1 {
     margin-bottom:50px;
+    padding-left:40px;
 }
 
 .items {
